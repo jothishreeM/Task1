@@ -1,0 +1,35 @@
+.map
+{ 
+maz-width:300px;
+margin=0px;
+map-width:300px;
+margin=0 auto;
+padding:40px 20px;
+}
+
+iframe
+{
+position :absolute;
+top:0;
+left:0px;
+width:25%;
+height:25%;
+border:none;
+border-radius:10px;
+}
+.button
+{
+display:inline-block;
+background-color:black;
+color:#fff;
+padding: 10px 20px;
+border-radius:5px;
+text-decoration:none;
+margin-top:20px;
+transition:background-color:0.3s;
+}
+
+.button:hover
+{
+background-color:white;
+}
